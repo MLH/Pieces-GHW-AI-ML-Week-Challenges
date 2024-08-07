@@ -10,10 +10,9 @@ Pieces allows you to streamline complex development tasks so you can get things 
 * If you need additional resources, you can find them at the bottom of this page! 
 
 
-# Registration Challenges
+# Registration Challenge
 
-## Registration Challenge 
-### Follow Pieces on Socials & Join the Pieces Discord Community
+## Follow Pieces on Socials & Join the Pieces Discord Community
 
 Connect with the Pieces community by following us on social media @getpieces and joining our Discord server. 
 
