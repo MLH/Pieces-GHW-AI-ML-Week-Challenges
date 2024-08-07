@@ -16,7 +16,7 @@ Pieces allows you to streamline complex development tasks so you can get things 
 
 Connect with the Pieces community by following us on social media @getpieces and joining our Discord server. 
 
-<br><br> Stay updated with the latest news, participate in discussions, and network with fellow developers by joining our [discord server](https://mlh.link/ghwaiml824-pieces-discord)! <br>
+<br>Stay updated with the latest news, participate in discussions, and network with fellow developers by joining our [discord server](https://mlh.link/ghwaiml824-pieces-discord)! <br>
 
 # Coding Challenges
 
