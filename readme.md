@@ -1,6 +1,6 @@
 # Welcome to the Pieces GHW AI/ML Week Challenge Page!
 
-Hello hackers! Pieces is an on-device AI coding assistant that boosts developer productivity. <br><br>
+Hello hackers! Pieces is an on-device AI workflow assistant that boosts developer productivity. <br><br>
 Pieces allows you to streamline complex development tasks so you can get things done more efficiently! 
 
 ## Getting Help 
