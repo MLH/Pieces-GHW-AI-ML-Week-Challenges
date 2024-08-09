@@ -55,6 +55,8 @@ Stay updated with the latest news, participate in discussions, and network with 
 
 #### Documentation:
 * [Check out this video tutorial on how to build a chatbot](https://mlh.link/ghwaiml824-pieces-chatbot)!
+* [Pieces Copilot Python SDK](https://github.com/mason-at-pieces/pieces-copilot-python-sdk/)
+
 
 # Resources
 * [Pieces for Developers](https://mlh.link/ghwaiml824-pieces-developers)
